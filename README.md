@@ -17,3 +17,5 @@
 <br />
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=a092devs.visitor-badge)
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/a092devs)
