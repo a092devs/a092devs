@@ -16,4 +16,4 @@
 <br />
 <br />
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=a092devs.a092devs)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=a092devs.visitor-badge)
