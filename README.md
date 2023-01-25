@@ -9,9 +9,6 @@
 <a href="mailto:arsalanakhtar0@gmail.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-<a href="http://dev.to/a092devs">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
-</a>
 
 <br />
 <br />
