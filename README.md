@@ -20,6 +20,5 @@
 ![](https://github-profile-trophy.vercel.app/?username=a092devs&theme=flat&no-frame=false&no-bg=false&margin-w=4)
 
 <br />
-<br />
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=a092devs.visitor-badge)
