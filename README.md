@@ -18,4 +18,5 @@
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=a092devs.visitor-badge)
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/a092devs)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=a092devs&theme=flat&no-frame=false&no-bg=false&margin-w=4)
