@@ -1,5 +1,7 @@
 ## Hi, I'm [Arsalan](https://t.me/a092devs) 
 
+I am a Computer Science student, currently working on my skills using python most of the time.
+
 <a href="https://www.linkedin.com/in/a092devs/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
