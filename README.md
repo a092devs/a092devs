@@ -9,7 +9,7 @@ I am a Computer Science student, currently working on my skills using python mos
   <img align="left" width="26px" src="https://www.svgrepo.com/show/475689/twitter-color.svg" />
 </a>
 <a href="mailto:arsalanakhtar0@gmail.com">
-  <img align="left" width="26px" src="https://www.svgrepo.com/show/241788/email-mail.svg" />
+  <img align="left" width="26px" src="https://www.svgrepo.com/show/400199/email.svg" />
 </a>
 
 <br />
