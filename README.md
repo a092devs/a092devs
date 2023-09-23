@@ -6,7 +6,7 @@ I am a Computer Science student, currently working on my skills using python mos
   <img align="left" width="24px" src="https://www.svgrepo.com/show/448234/linkedin.svg"  />
 </a>
 <a href="https://twitter.com/a092devs">
-  <img align="left" width="26px" src="https://www.svgrepo.com/show/475689/twitter-color.svg" />
+  <img align="left" width="26px" src="https://www.svgrepo.com/show/448252/twitter.svg" />
 </a>
 <a href="mailto:arsalanakhtar0@gmail.com">
   <img align="left" width="26px" src="https://www.svgrepo.com/show/400199/email.svg" />
