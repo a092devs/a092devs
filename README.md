@@ -1,6 +1,6 @@
 ## Hi, I'm [Arsalan](https://t.me/a092devs) 
 
-I am a Computer Science student, currently working on my skills using python most of the time.
+I am a Computer Science student, currently working on my skills using python most of the time. Currently learning ReactJS.
 
 <a href="https://www.linkedin.com/in/a092devs/">
   <img align="left" width="24px" src="https://www.svgrepo.com/show/448234/linkedin.svg"  />
