@@ -1,8 +1,6 @@
-Hi! I'm Arsalan, a software developer learning Python and web development.
-
 ## About Me
 
-I am a software developer with a passion for learning and developing new skills. I am currently focused on learning Python and web development, but I am also interested in other areas of computer science, such as artificial intelligence and machine learning.
+Hi! I'm Arsalan, a software developer with a passion for learning and developing new skills. I am currently focused on learning Python and web development, but I am also interested in other areas of computer science, such as artificial intelligence and machine learning.
 
 ## Social Media
 
