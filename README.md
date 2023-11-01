@@ -1,23 +1,21 @@
-## Hi, I'm [Arsalan](https://t.me/a092devs) 
+Hi! I'm Arsalan, a software developer learning Python and web development.
 
-I am a Computer Science student, currently working on my skills using python most of the time. Currently learning ReactJS.
+## Github Stats
 
-<a href="https://www.linkedin.com/in/a092devs/">
-  <img align="left" width="24px" src="https://www.svgrepo.com/show/448234/linkedin.svg"  />
-</a>
-<a href="https://twitter.com/a092devs">
-  <img align="left" width="26px" src="https://www.svgrepo.com/show/448252/twitter.svg" />
-</a>
-<a href="mailto:arsalanakhtar0@gmail.com">
-  <img align="left" width="26px" src="https://www.svgrepo.com/show/400199/email.svg" />
-</a>
+![a092devs's Stats](https://github-readme-stats.vercel.app/api?username=a092devs&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-<br />
-<br />
+## About Me
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=a092devs&theme=flat&no-frame=false&no-bg=false&margin-w=4)
+I am a software developer with a passion for learning and developing new skills. I am currently focused on learning Python and web development, but I am also interested in other areas of computer science, such as artificial intelligence and machine learning.
 
-<br />
+## Social Media
 
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=a092devs.visitor-badge)
+You can follow me on social media at the following links:
+
+* Twitter: [https://twitter.com/a092devs](https://twitter.com/a092devs)
+* LinkedIn: [https://www.linkedin.com/in/a092devs](https://www.linkedin.com/in/a092devs)
+* Contact: arsalanakhtar0@gmail.com
+
+## Profile Visit
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=a092devs&labelColor=%23697689&countColor=%23555555&style=plastic&labelStyle=none)](https://visitorbadge.io/status?path=a092devs)
