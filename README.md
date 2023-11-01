@@ -18,4 +18,4 @@ You can follow me on social media at the following links:
 
 ## Profile Visit
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=a092devs&labelColor=%23697689&countColor=%23555555&style=plastic&labelStyle=none)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=a092devs&labelColor=%23697689&countColor=%23d9e3f0&style=plastic&labelStyle=none)
