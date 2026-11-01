@@ -8,7 +8,7 @@
   <img src="https://raw.githubusercontent.com/a092devs/profile-assets/main/assets/typing-dark.gif" alt="Android, web and data work" width="620" />
 </picture>
 
-[**LinkedIn**](https://www.linkedin.com/in/a092devs) &nbsp;·&nbsp; [**X**](https://twitter.com/a092devs) &nbsp;·&nbsp; [**Email**](mailto:arsalanakhtar0@gmail.com)
+<a href="https://www.linkedin.com/in/a092devs"><img src="https://raw.githubusercontent.com/a092devs/profile-assets/main/assets/badges/linkedin.png" height="22" width="22" valign="middle" alt="LinkedIn" />&nbsp;<b>LinkedIn</b></a> &nbsp;&nbsp;&nbsp; <a href="https://twitter.com/a092devs"><img src="https://raw.githubusercontent.com/a092devs/profile-assets/main/assets/badges/x.png" height="22" width="22" valign="middle" alt="X" />&nbsp;<b>X</b></a> &nbsp;&nbsp;&nbsp; <a href="mailto:arsalanakhtar0@gmail.com"><img src="https://raw.githubusercontent.com/a092devs/profile-assets/main/assets/badges/gmail.png" height="22" width="22" valign="middle" alt="Email" />&nbsp;<b>Email</b></a>
 
 </div>
 
@@ -19,31 +19,6 @@ sit around it, and the pipelines that turn what those systems collect into somet
 readable. Most of my work involves making something behave differently than it shipped,
 whether that is a patch bundle for a social app, a module that fixes a bad ROM port, or
 a query that reconciles two systems that disagree about an order.
-
----
-
-### 🧭 What I do
-
-**Android, ROMs and patching**
-
-Xposed and LSPosed module development, Magisk and KernelSU modules, and runtime patch
-authoring against real apps rather than source I control. Comfortable reading smali and
-dex when the source isn't available, working with AOSP and vendor trees, and debugging
-down into telephony and IMS when the symptom is only visible in the status bar. I
-currently maintain a port of OxygenOS 16 to the Poco F7, which keeps me close to the
-bring-up side of things.
-
-**Web platforms and APIs**
-
-React front ends on FastAPI or Node back ends, with PostgreSQL underneath. I tend to
-end up building internal operations tooling rather than marketing sites: dashboards
-where someone can actually work out why a shipment is late or a payment never settled.
-
-**Data and analytics**
-
-ETL work in Python, SQL transformations that live in the database rather than in a
-notebook, and Power BI or dashboard layers on top. The useful part is usually deciding
-what the grain of a fact table should be, not the charting.
 
 ---
 
@@ -59,24 +34,6 @@ what the grain of a fact table should be, not the charting.
 | **[GameUnlocker](https://github.com/a092devs/GameUnlocker)** | C++ Magisk and KernelSU module that unlocks 90+ FPS frame rates in BGMI and PUBG, tuned to hold up on weaker devices. |
 | **[irctc-cypress-automation](https://github.com/a092devs/irctc-cypress-automation)** | Cypress end-to-end automation against the IRCTC booking flow, completing a tatkal booking run in about a minute. |
 | **[termux-onyx-setup](https://github.com/a092devs/termux-onyx-setup)** | A modular Termux environment with zsh and Powerlevel10k, packaged so the shell, prompt and tooling can be enabled independently. |
-
----
-
-### 🤝 Services
-
-Happy to take on work in the areas above, particularly where it needs someone who will
-go below the app layer:
-
-- **Android module and patch development.** Xposed and LSPosed modules, Magisk and
-  KernelSU work, and reverse-engineering an app's behaviour when there is no source.
-- **ROM porting and device bring-up fixes.** Diagnosing what broke when a build moved to
-  hardware it wasn't made for, especially telephony, camera and system UI symptoms.
-- **Internal dashboards and APIs.** React and FastAPI or Node with PostgreSQL, from the
-  data model through to the interface.
-- **Data pipelines and reporting.** ETL in Python, warehouse modelling in SQL, and Power
-  BI or dashboard layers over the top.
-
-The fastest way to reach me is [email](mailto:arsalanakhtar0@gmail.com).
 
 ---
 
