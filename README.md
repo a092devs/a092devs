@@ -10,7 +10,7 @@
 
 <br>
 
-<a href="https://www.linkedin.com/in/a092devs"><img src="https://a092devs.github.io/profile-assets/icons/linkedin.svg" height="26" width="26" valign="middle" alt="LinkedIn" />&nbsp;<b>LinkedIn</b></a> &nbsp;&nbsp;&nbsp; <a href="https://twitter.com/a092devs"><img src="https://a092devs.github.io/profile-assets/icons/x.svg" height="26" width="26" valign="middle" alt="X" />&nbsp;<b>X</b></a> &nbsp;&nbsp;&nbsp; <a href="mailto:arsalanakhtar0@gmail.com"><img src="https://a092devs.github.io/profile-assets/icons/envelope.svg" height="26" width="26" valign="middle" alt="Email" />&nbsp;<b>Email</b></a>
+<a href="https://www.linkedin.com/in/a092devs"><img src="https://a092devs.github.io/profile-assets/icons/linkedin.svg" height="26" width="26" valign="middle" alt="LinkedIn" />&nbsp;<b>LinkedIn</b></a> &nbsp;&nbsp;&nbsp; <a href="https://twitter.com/a092devs"><img src="https://a092devs.github.io/profile-assets/icons/x.svg" height="26" width="26" valign="middle" alt="X" />&nbsp;<b>X</b></a> &nbsp;&nbsp;&nbsp; <a href="mailto:arsalanakhtar0@gmail.com"><img src="https://a092devs.github.io/profile-assets/icons/gmail.svg" height="26" width="26" valign="middle" alt="Email" />&nbsp;<b>Email</b></a>
 
 </div>
 
