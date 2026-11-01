@@ -1,125 +1,69 @@
 <div align="center">
 
-# Hi there, I'm Arsalan 👋
+# Hi, I'm Arsalan 👋
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Android+Development+%26+Patching;Full-Stack+Web+%26+Backend+APIs;Data+Analytics+%26+ETL+Workflows">
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=0969DA&center=true&vCenter=true&width=550&lines=Android+Development+%26+Patching;Full-Stack+Web+%26+Backend+APIs;Data+Analytics+%26+ETL+Workflows">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Android+Development+%26+Patching;Full-Stack+Web+%26+Backend+APIs;Data+Analytics+%26+ETL+Workflows" alt="Typing SVG" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/a092devs/profile-assets/main/assets/typing-dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/a092devs/profile-assets/main/assets/typing-light.gif">
+  <img src="https://raw.githubusercontent.com/a092devs/profile-assets/main/assets/typing-dark.gif" alt="Android, web and data work" width="620" />
 </picture>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/a092devs" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="https://twitter.com/a092devs" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-111111?style=flat&logo=x&logoColor=white" alt="X" />
-  </a>
-  &nbsp;
-  <a href="mailto:arsalanakhtar0@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+[**LinkedIn**](https://www.linkedin.com/in/a092devs) &nbsp;·&nbsp; [**X**](https://twitter.com/a092devs) &nbsp;·&nbsp; [**Email**](mailto:arsalanakhtar0@gmail.com)
 
 </div>
 
 ---
 
-### 👨‍💻 About Me
+### 🌟 Things I've built
 
-A person with a keen interest in tech who enjoys tinkering with Android, building full-stack web applications, and exploring data analytics.
-
-- 📱 Exploring Android internals, patch engines, and module management with **[NexAlloyNext](https://github.com/a092devs/NexAlloyNext)** & **[NexAlloyNext-Patches](https://github.com/a092devs/NexAlloyNext-Patches)**.
-- 💻 Building full-stack web platforms and backend APIs.
-- 📊 Experimenting with data pipelines, SQL transformations, and analytics dashboards.
-- 🚀 Always enthusiastic about learning new technologies and exploring open-source projects.
-
----
-
-### 🛠️ Tech & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python" width="40" height="40" alt="Python" title="Python" />
-  &nbsp;
-  <img src="https://skillicons.dev/icons?i=kotlin" width="40" height="40" alt="Kotlin" title="Kotlin" />
-  &nbsp;
-  <img src="https://skillicons.dev/icons?i=java" width="40" height="40" alt="Java" title="Java" />
-  &nbsp;
-  <img src="https://skillicons.dev/icons?i=cpp" width="40" height="40" alt="C++" title="C++" />
-  &nbsp;
-  <img src="https://skillicons.dev/icons?i=js" width="40" height="40" alt="JavaScript" title="JavaScript" />
-  &nbsp;
-  <img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React" title="React" />
-  &nbsp;
-  <img src="https://skillicons.dev/icons?i=fastapi" width="40" height="40" alt="FastAPI" title="FastAPI" />
-  &nbsp;
-  <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Node.js" title="Node.js" />
-  &nbsp;
-  <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL" title="PostgreSQL" />
-  &nbsp;
-  <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" alt="Tailwind CSS" title="Tailwind CSS" />
-  &nbsp;
-  <img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="Docker" title="Docker" />
-  &nbsp;
-  <img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git" title="Git" />
-  &nbsp;
-  <img src="https://skillicons.dev/icons?i=linux" width="40" height="40" alt="Linux" title="Linux" />
-</p>
+| | |
+|:--|:--|
+| **[NexAlloyNext](https://github.com/a092devs/NexAlloyNext)** | LSPosed and Morphe patch manager for Android. Ships two design systems, Material 3 and MIUIX. |
+| **[NexAlloyNext-Patches](https://github.com/a092devs/NexAlloyNext-Patches)** | The patch bundles that go with it, covering Instagram, Facebook, YouTube, Gboard, Proton VPN, Discord and Reddit. |
+| **[SystemFixes](https://github.com/a092devs/SystemFixes)** | Fixes for the OxygenOS 16 port running on my Poco F7. Storage size, the Vo5G indicator, and 5G+ carrier aggregation. |
+| **[OpsVista](https://github.com/a092devs/OpsVista)** | Ecommerce operations dashboard. React, FastAPI, PostgreSQL. |
+| **[DataFoundry](https://github.com/a092devs/DataFoundry)** | The analytics side of the same store. Python, SQL and Power BI. |
+| **[GameUnlocker](https://github.com/a092devs/GameUnlocker)** | Magisk module that unlocks 90+ FPS in BGMI and PUBG, even on weaker devices. |
 
 ---
 
-### 🌟 Featured Projects
+### 🛠️ Stack
 
-<p align="center">
-  <a href="https://github.com/a092devs/NexAlloyNext">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=a092devs&repo=NexAlloyNext&theme=transparent&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&border_color=30363d">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=a092devs&repo=NexAlloyNext&theme=transparent&title_color=0969da&text_color=57606a&icon_color=0969da&border_color=d0d7de">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=a092devs&repo=NexAlloyNext&theme=transparent&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&border_color=30363d" width="47%" alt="NexAlloyNext" />
-    </picture>
-  </a>
-  &nbsp;
-  <a href="https://github.com/a092devs/NexAlloyNext-Patches">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=a092devs&repo=NexAlloyNext-Patches&theme=transparent&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&border_color=30363d">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=a092devs&repo=NexAlloyNext-Patches&theme=transparent&title_color=0969da&text_color=57606a&icon_color=0969da&border_color=d0d7de">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=a092devs&repo=NexAlloyNext-Patches&theme=transparent&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&border_color=30363d" width="47%" alt="NexAlloyNext-Patches" />
-    </picture>
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/a092devs/OpsVista">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=a092devs&repo=OpsVista&theme=transparent&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&border_color=30363d">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=a092devs&repo=OpsVista&theme=transparent&title_color=0969da&text_color=57606a&icon_color=0969da&border_color=d0d7de">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=a092devs&repo=OpsVista&theme=transparent&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&border_color=30363d" width="47%" alt="OpsVista" />
-    </picture>
-  </a>
-  &nbsp;
-  <a href="https://github.com/a092devs/DataFoundry">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=a092devs&repo=DataFoundry&theme=transparent&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&border_color=30363d">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=a092devs&repo=DataFoundry&theme=transparent&title_color=0969da&text_color=57606a&icon_color=0969da&border_color=d0d7de">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=a092devs&repo=DataFoundry&theme=transparent&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&border_color=30363d" width="47%" alt="DataFoundry" />
-    </picture>
-  </a>
-</p>
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/a092devs/profile-assets/main/assets/icons/kotlin.png" width="44" height="44" alt="Kotlin" title="Kotlin" />&nbsp;
+<img src="https://raw.githubusercontent.com/a092devs/profile-assets/main/assets/icons/openjdk.png" width="44" height="44" alt="Java" title="Java" />&nbsp;
+<img src="https://raw.githubusercontent.com/a092devs/profile-assets/main/assets/icons/cplusplus.png" width="44" height="44" alt="C++" title="C++" />&nbsp;
+<img src="https://raw.githubusercontent.com/a092devs/profile-assets/main/assets/icons/python.png" width="44" height="44" alt="Python" title="Python" />&nbsp;
+<img src="https://raw.githubusercontent.com/a092devs/profile-assets/main/assets/icons/fastapi.png" width="44" height="44" alt="FastAPI" title="FastAPI" />&nbsp;
+<img src="https://raw.githubusercontent.com/a092devs/profile-assets/main/assets/icons/nodedotjs.png" width="44" height="44" alt="Node.js" title="Node.js" />&nbsp;
+<img src="https://raw.githubusercontent.com/a092devs/profile-assets/main/assets/icons/react.png" width="44" height="44" alt="React" title="React" />&nbsp;
+<img src="https://raw.githubusercontent.com/a092devs/profile-assets/main/assets/icons/javascript.png" width="44" height="44" alt="JavaScript" title="JavaScript" />&nbsp;
+<img src="https://raw.githubusercontent.com/a092devs/profile-assets/main/assets/icons/tailwindcss.png" width="44" height="44" alt="Tailwind CSS" title="Tailwind CSS" />&nbsp;
+<img src="https://raw.githubusercontent.com/a092devs/profile-assets/main/assets/icons/postgresql.png" width="44" height="44" alt="PostgreSQL" title="PostgreSQL" />&nbsp;
+<img src="https://raw.githubusercontent.com/a092devs/profile-assets/main/assets/icons/docker.png" width="44" height="44" alt="Docker" title="Docker" />&nbsp;
+<img src="https://raw.githubusercontent.com/a092devs/profile-assets/main/assets/icons/git.png" width="44" height="44" alt="Git" title="Git" />&nbsp;
+<img src="https://raw.githubusercontent.com/a092devs/profile-assets/main/assets/icons/linux.png" width="44" height="44" alt="Linux" title="Linux" />
+
+</div>
 
 ---
 
-### 📊 GitHub Activity
+### 👨‍💻 Right now
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=a092devs&show_icons=true&theme=transparent&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&hide_border=true&hide_rank=true&count_private=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=a092devs&show_icons=true&theme=transparent&title_color=0969da&text_color=1f2328&icon_color=0969da&hide_border=true&hide_rank=true&count_private=true">
-    <img src="https://github-readme-stats.vercel.app/api?username=a092devs&show_icons=true&theme=transparent&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&hide_border=true&hide_rank=true&count_private=true" height="175" alt="GitHub Stats" />
-  </picture>
-  &nbsp;&nbsp;
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=a092devs&theme=transparent&title_color=58a6ff&text_color=c9d1d9&hide_border=true&layout=compact">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=a092devs&theme=transparent&title_color=0969da&text_color=1f2328&hide_border=true&layout=compact">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a092devs&theme=transparent&title_color=58a6ff&text_color=c9d1d9&hide_border=true&layout=compact" height="175" alt="Most Used Languages" />
-  </picture>
-</p>
+Mostly Android internals. Lately that means figuring out how VoNR and IMS capability
+negotiation actually work, and why a carrier config flag ends up deciding what you see
+in the status bar. Alongside that I keep working on patch bundles that survive app
+updates without having to fork the app.
+
+---
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/a092devs/profile-assets/main/assets/stats-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/a092devs/profile-assets/main/assets/stats-light.png">
+  <img src="https://raw.githubusercontent.com/a092devs/profile-assets/main/assets/stats-dark.png" alt="GitHub stats" width="420" />
+</picture>
+
+</div>
