@@ -14,16 +14,69 @@
 
 ---
 
-### 🌟 Things I've built
+I build software for Android at the framework level, the web apps and dashboards that
+sit around it, and the pipelines that turn what those systems collect into something
+readable. Most of my work involves making something behave differently than it shipped,
+whether that is a patch bundle for a social app, a module that fixes a bad ROM port, or
+a query that reconciles two systems that disagree about an order.
 
-| | |
+---
+
+### 🧭 What I do
+
+**Android, ROMs and patching**
+
+Xposed and LSPosed module development, Magisk and KernelSU modules, and runtime patch
+authoring against real apps rather than source I control. Comfortable reading smali and
+dex when the source isn't available, working with AOSP and vendor trees, and debugging
+down into telephony and IMS when the symptom is only visible in the status bar. I
+currently maintain a port of OxygenOS 16 to the Poco F7, which keeps me close to the
+bring-up side of things.
+
+**Web platforms and APIs**
+
+React front ends on FastAPI or Node back ends, with PostgreSQL underneath. I tend to
+end up building internal operations tooling rather than marketing sites: dashboards
+where someone can actually work out why a shipment is late or a payment never settled.
+
+**Data and analytics**
+
+ETL work in Python, SQL transformations that live in the database rather than in a
+notebook, and Power BI or dashboard layers on top. The useful part is usually deciding
+what the grain of a fact table should be, not the charting.
+
+---
+
+### 🌟 Selected work
+
+| Project | Details |
 |:--|:--|
-| **[NexAlloyNext](https://github.com/a092devs/NexAlloyNext)** | LSPosed and Morphe patch manager for Android. Ships two design systems, Material 3 and MIUIX. |
-| **[NexAlloyNext-Patches](https://github.com/a092devs/NexAlloyNext-Patches)** | The patch bundles that go with it, covering Instagram, Facebook, YouTube, Gboard, Proton VPN, Discord and Reddit. |
-| **[SystemFixes](https://github.com/a092devs/SystemFixes)** | Fixes for the OxygenOS 16 port running on my Poco F7. Storage size, the Vo5G indicator, and 5G+ carrier aggregation. |
-| **[OpsVista](https://github.com/a092devs/OpsVista)** | Ecommerce operations dashboard. React, FastAPI, PostgreSQL. |
-| **[DataFoundry](https://github.com/a092devs/DataFoundry)** | The analytics side of the same store. Python, SQL and Power BI. |
-| **[GameUnlocker](https://github.com/a092devs/GameUnlocker)** | Magisk module that unlocks 90+ FPS in BGMI and PUBG, even on weaker devices. |
+| **[NexAlloyNext](https://github.com/a092devs/NexAlloyNext)** | LSPosed and Morphe patch manager for Android, written in Kotlin. Ships two complete design systems, Material 3 and MIUIX, and handles patch discovery, installation and updates. |
+| **[NexAlloyNext-Patches](https://github.com/a092devs/NexAlloyNext-Patches)** | The patch bundles that run on it, distributed as `.nxb`. Covers Instagram, Facebook, YouTube, PixelBoard Gboard, Proton VPN, Discord and Reddit, and keeps working across app updates without forking the app. |
+| **[SystemFixes](https://github.com/a092devs/SystemFixes)** | An LSPosed module that repairs the OxygenOS 16 port on the Poco F7. Fixes a storage capacity reported from the wrong chip, rebuilds the Vo5G indicator so it follows the real voice radio technology per SIM, and only shows 5G+ when the network is genuinely aggregating NR carriers. |
+| **[OpsVista](https://github.com/a092devs/OpsVista)** | Ecommerce operations dashboard. React and FastAPI over PostgreSQL, covering sales, orders, customers, payments, returns and shipping times. |
+| **[DataFoundry](https://github.com/a092devs/DataFoundry)** | The analytics side of the same store: Python and SQL pipelines feeding a PostgreSQL warehouse and Power BI reporting. |
+| **[GameUnlocker](https://github.com/a092devs/GameUnlocker)** | C++ Magisk and KernelSU module that unlocks 90+ FPS frame rates in BGMI and PUBG, tuned to hold up on weaker devices. |
+| **[irctc-cypress-automation](https://github.com/a092devs/irctc-cypress-automation)** | Cypress end-to-end automation against the IRCTC booking flow, completing a tatkal booking run in about a minute. |
+| **[termux-onyx-setup](https://github.com/a092devs/termux-onyx-setup)** | A modular Termux environment with zsh and Powerlevel10k, packaged so the shell, prompt and tooling can be enabled independently. |
+
+---
+
+### 🤝 Services
+
+Happy to take on work in the areas above, particularly where it needs someone who will
+go below the app layer:
+
+- **Android module and patch development.** Xposed and LSPosed modules, Magisk and
+  KernelSU work, and reverse-engineering an app's behaviour when there is no source.
+- **ROM porting and device bring-up fixes.** Diagnosing what broke when a build moved to
+  hardware it wasn't made for, especially telephony, camera and system UI symptoms.
+- **Internal dashboards and APIs.** React and FastAPI or Node with PostgreSQL, from the
+  data model through to the interface.
+- **Data pipelines and reporting.** ETL in Python, warehouse modelling in SQL, and Power
+  BI or dashboard layers over the top.
+
+The fastest way to reach me is [email](mailto:arsalanakhtar0@gmail.com).
 
 ---
 
@@ -46,15 +99,6 @@
 <img src="https://raw.githubusercontent.com/a092devs/profile-assets/main/assets/icons/linux.png" width="44" height="44" alt="Linux" title="Linux" />
 
 </div>
-
----
-
-### 👨‍💻 Right now
-
-Mostly Android internals. Lately that means figuring out how VoNR and IMS capability
-negotiation actually work, and why a carrier config flag ends up deciding what you see
-in the status bar. Alongside that I keep working on patch bundles that survive app
-updates without having to fork the app.
 
 ---
 
