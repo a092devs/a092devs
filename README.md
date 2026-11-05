@@ -6,17 +6,18 @@
 
 I build the app, the service behind it, and the data layer underneath both.
 
-</div>
-
 ---
 
 ## 💡 About
 
-- **Android** — apps and system tooling in Kotlin and Java: runtime instrumentation,
-  Jetpack Compose and Material 3 interfaces
-- **Backend** — REST APIs in Python (FastAPI) and Node.js over PostgreSQL
-- **Data** — analytics pipelines from raw tables to a modelled schema to the report
-- **Web** — React frontends styled with Tailwind CSS
+**Android** — apps and system tooling in Kotlin and Java: runtime instrumentation,
+Jetpack Compose and Material 3 interfaces
+
+**Backend** — REST APIs in Python (FastAPI) and Node.js over PostgreSQL
+
+**Data** — analytics pipelines, from raw tables to a modelled schema to the report
+
+**Web** — React frontends styled with Tailwind CSS
 
 ## 🧰 Stack
 
@@ -62,3 +63,5 @@ More in the [repository list](https://github.com/a092devs?tab=repositories).
 ## 📫 Connect
 
 [LinkedIn](https://www.linkedin.com/in/a092devs)
+
+</div>
