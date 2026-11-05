@@ -1,40 +1,40 @@
-<div align="center">
+# Arsalan / a092devs
 
-# Hi, I'm Arsalan 👋
+I work one layer below the app. On Android that means framework internals, Xposed and
+LSPosed hooks, runtime bytecode patching, ROM ports — the parts nobody documented. On
+the web it means the database quietly disagreeing with the dashboard built on top of
+it, and me finding out which one is lying.
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/a092devs/profile-assets/main/assets/typing-dark.gif"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/a092devs/profile-assets/main/assets/typing-light.gif"><img src="https://raw.githubusercontent.com/a092devs/profile-assets/main/assets/typing-dark.gif" alt="Android, web and data work" width="620" /></picture>
+```text
+android    Kotlin · Java · C++ · Magisk/KernelSU · LSPosed/Xposed · Jetpack Compose
+backend    Python · FastAPI · Node.js · PostgreSQL · SQL
+frontend   React · JavaScript · Tailwind CSS
+tooling    Git · Docker · Linux · Termux
+```
 
-<p align="center"><a href="https://www.linkedin.com/in/a092devs"><img src="https://a092devs.github.io/profile-assets/badges/linkedin.png" height="30" alt="LinkedIn" /></a> &nbsp;&nbsp;&nbsp; <a href="https://twitter.com/a092devs"><img src="https://a092devs.github.io/profile-assets/badges/x.png" height="30" alt="X" /></a> &nbsp;&nbsp;&nbsp; <a href="mailto:arsalanakhtar0@gmail.com"><img src="https://a092devs.github.io/profile-assets/badges/envelope-src.png" height="30" alt="Email" /></a></p>
+## Projects
 
-</div>
+- **[NexFusion](https://github.com/a092devs/NexFusion)** (`Kotlin`, `GPL-3.0`) — Root and
+  LSPosed patch manager for Android. Runtime bytecode patcher, Material 3 UI, built
+  around MIUI/HyperOS targets.
+- **[Nexfusion-Patches](https://github.com/a092devs/Nexfusion-Patches)** (`Kotlin`,
+  `GPL-3.0`) — The `.nxb` patch bundles NexFusion loads: Gboard, YouTube, Telegram and
+  social-client hooks.
+- **[System Fixes](https://github.com/a092devs/SystemFixes-Releases)** (`LibXposed`) —
+  Fixes the parts of a ported OxygenOS 16 build on the Poco F7 (`onyx`) that don't follow
+  the hardware: lock-screen notifications, radio glyphs, reported capacity, DPI. Signed
+  builds and release notes live in that repo.
+- **[OpsVista](https://github.com/a092devs/OpsVista)** (`React` · `FastAPI` ·
+  `PostgreSQL`) — E-commerce operations dashboard covering sales, orders, customers,
+  products, payments, returns and shipping latency.
+- **[DataFoundry](https://github.com/a092devs/DataFoundry)** (`Python` · `SQL` ·
+  `Power BI`) — End-to-end e-commerce analytics: Python and SQL for the pipeline,
+  PostgreSQL for the model, Power BI on the reporting end.
 
----
+Everything else is in the [repository list](https://github.com/a092devs?tab=repositories).
 
-I've always wanted to know where a decision actually gets made. In Android that's
-usually a layer below the app — a module, a patch, a flag in a config file nobody
-documented. On the web it's the database quietly disagreeing with the dashboard built
-on top of it. Most of what I do is reading code I didn't write and getting it to behave.
+## Contact
 
----
-
-### 🌟 Selected work
-
-<p align="center"><a href="https://github.com/a092devs/NexFusion"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/a092devs/profile-assets/main/assets/cards/NexFusion-dark.png"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/a092devs/profile-assets/main/assets/cards/NexFusion-light.png"><img src="https://raw.githubusercontent.com/a092devs/profile-assets/main/assets/cards/NexFusion-dark.png" width="47%" alt="NexFusion" /></picture></a> &nbsp;&nbsp;&nbsp; <a href="https://github.com/a092devs/Nexfusion-Patches"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/a092devs/profile-assets/main/assets/cards/Nexfusion-Patches-dark.png"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/a092devs/profile-assets/main/assets/cards/Nexfusion-Patches-light.png"><img src="https://raw.githubusercontent.com/a092devs/profile-assets/main/assets/cards/Nexfusion-Patches-dark.png" width="47%" alt="Nexfusion-Patches" /></picture></a></p>
-<p align="center"><a href="https://github.com/a092devs/GameUnlocker"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/a092devs/profile-assets/main/assets/cards/GameUnlocker-dark.png"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/a092devs/profile-assets/main/assets/cards/GameUnlocker-light.png"><img src="https://raw.githubusercontent.com/a092devs/profile-assets/main/assets/cards/GameUnlocker-dark.png" width="47%" alt="GameUnlocker" /></picture></a> &nbsp;&nbsp;&nbsp; <a href="https://github.com/a092devs/OpsVista"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/a092devs/profile-assets/main/assets/cards/OpsVista-dark.png"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/a092devs/profile-assets/main/assets/cards/OpsVista-light.png"><img src="https://raw.githubusercontent.com/a092devs/profile-assets/main/assets/cards/OpsVista-dark.png" width="47%" alt="OpsVista" /></picture></a></p>
-<p align="center"><a href="https://github.com/a092devs/DataFoundry"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/a092devs/profile-assets/main/assets/cards/DataFoundry-dark.png"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/a092devs/profile-assets/main/assets/cards/DataFoundry-light.png"><img src="https://raw.githubusercontent.com/a092devs/profile-assets/main/assets/cards/DataFoundry-dark.png" width="47%" alt="DataFoundry" /></picture></a></p>
-
-<p align="center"><a href="https://github.com/a092devs?tab=repositories">The rest of it lives in the repository list</a></p>
-
----
-
-### 🛠️ Stack
-
-<p align="center"><img src="https://a092devs.github.io/profile-assets/icons/kotlin.svg" height="42" valign="middle" alt="Kotlin" title="Kotlin" /> &nbsp;&nbsp;&nbsp; <img src="https://a092devs.github.io/profile-assets/icons/java.svg" height="42" valign="middle" alt="Java" title="Java" /> &nbsp;&nbsp;&nbsp; <img src="https://a092devs.github.io/profile-assets/icons/cpp.svg" height="42" valign="middle" alt="C++" title="C++" /> &nbsp;&nbsp;&nbsp; <img src="https://a092devs.github.io/profile-assets/icons/python.svg" height="42" valign="middle" alt="Python" title="Python" /> &nbsp;&nbsp;&nbsp; <img src="https://a092devs.github.io/profile-assets/icons/fastapi.svg" height="42" valign="middle" alt="FastAPI" title="FastAPI" /> &nbsp;&nbsp;&nbsp; <img src="https://a092devs.github.io/profile-assets/icons/nodejs.svg" height="42" valign="middle" alt="Node.js" title="Node.js" /> &nbsp;&nbsp;&nbsp; <img src="https://a092devs.github.io/profile-assets/icons/react.svg" height="42" valign="middle" alt="React" title="React" /> &nbsp;&nbsp;&nbsp; <img src="https://a092devs.github.io/profile-assets/icons/javascript.svg" height="42" valign="middle" alt="JavaScript" title="JavaScript" /> &nbsp;&nbsp;&nbsp; <img src="https://a092devs.github.io/profile-assets/icons/tailwindcss.svg" height="42" valign="middle" alt="Tailwind CSS" title="Tailwind CSS" /> &nbsp;&nbsp;&nbsp; <img src="https://a092devs.github.io/profile-assets/icons/postgresql.svg" height="42" valign="middle" alt="PostgreSQL" title="PostgreSQL" /> &nbsp;&nbsp;&nbsp; <img src="https://a092devs.github.io/profile-assets/icons/docker.svg" height="42" valign="middle" alt="Docker" title="Docker" /> &nbsp;&nbsp;&nbsp; <img src="https://a092devs.github.io/profile-assets/icons/git.svg" height="42" valign="middle" alt="Git" title="Git" /> &nbsp;&nbsp;&nbsp; <picture><source media="(prefers-color-scheme: dark)" srcset="https://a092devs.github.io/profile-assets/icons/linux-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://a092devs.github.io/profile-assets/icons/linux.svg"><img src="https://a092devs.github.io/profile-assets/icons/linux.svg" height="42" valign="middle" alt="Linux" title="Linux" /></picture></p>
-
----
-
-<div align="center">
-
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/a092devs/profile-assets/main/assets/stats-dark.png"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/a092devs/profile-assets/main/assets/stats-light.png"><img src="https://raw.githubusercontent.com/a092devs/profile-assets/main/assets/stats-dark.png" alt="GitHub stats" width="420" /></picture>
-
-</div>
+[arsalanakhtar0@gmail.com](mailto:arsalanakhtar0@gmail.com) ·
+[LinkedIn](https://www.linkedin.com/in/a092devs) ·
+[X](https://twitter.com/a092devs)
