@@ -32,23 +32,8 @@ disk, so it keeps its original signature and Play Protect status.
 Supported targets include YouTube, Reddit, Instagram, Facebook, Telegram, X and Maps.
 Requires Android 8.1+ (API 27) and root.
 
-## OpsVista
-
-Seven Parquet tables of garden retail data are loaded into PostgreSQL, served by a
-FastAPI backend and displayed in a React dashboard covering sales, orders, customers,
-products, payments, returns and shipping time. Dark and light themes, with the choice
-remembered per browser.
-
-## DataFoundry
-
-Upload a CSV and the app profiles its columns, runs validation checks, stores the
-dataset in PostgreSQL and lets you explore it. FastAPI backend, React frontend.
-
-It began as an analysis of the Olist Brazilian e-commerce dataset (99K orders, 91.9%
-delivered on time or early) feeding a Power BI report. That version is gone: the current
-app takes one CSV at a time and does not join separate tables.
-
 ## Contact
 
 [LinkedIn](https://www.linkedin.com/in/a092devs) ·
+[Telegram](https://www.t.me/a092devs) ·
 [all repositories](https://github.com/a092devs?tab=repositories)
